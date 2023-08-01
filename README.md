@@ -2,6 +2,6 @@
 A simple password generator with swing gui
 
 Features:
-1. Able to create password of any length.
-2. Don't like uppercases? tick and omit it!
+1. Ability to create password of any length.
+2. Ability to omit lowercase, uppercase, numbers and symbols (Please don't omit all four.)
 3. History log to keep track of previously generated passwords.
